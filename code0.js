@@ -810,7 +810,11 @@ for(var i = 0, len = gdjs.Level_321Code.GDtextsulingObjects2.length ;i < len;++i
 }
 
 
+<<<<<<< HEAD
 };gdjs.Level_321Code.asyncCallback11431524 = function (runtimeScene, asyncObjectsList) {
+=======
+};gdjs.Level_321Code.asyncCallback11651988 = function (runtimeScene, asyncObjectsList) {
+>>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Level_321Code.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("Suling"), gdjs.Level_321Code.GDSulingObjects2);
 
@@ -923,7 +927,11 @@ for (const obj of gdjs.Level_321Code.GDtextondelObjects1) asyncObjectsList.addOb
 for (const obj of gdjs.Level_321Code.GDtextsulingObjects1) asyncObjectsList.addObject("textsuling", obj);
 for (const obj of gdjs.Level_321Code.GDtextwayangObjects1) asyncObjectsList.addObject("textwayang", obj);
 for (const obj of gdjs.Level_321Code.GDwayangObjects1) asyncObjectsList.addObject("wayang", obj);
+<<<<<<< HEAD
 runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1.5), (runtimeScene) => (gdjs.Level_321Code.asyncCallback11431524(runtimeScene, asyncObjectsList)));
+=======
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1.5), (runtimeScene) => (gdjs.Level_321Code.asyncCallback11651988(runtimeScene, asyncObjectsList)));
+>>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 }
 }
 
@@ -1407,7 +1415,11 @@ gdjs.Level_321Code.eventsList7(runtimeScene);} //End of subevents
 
 
 };gdjs.Level_321Code.mapOfEmptyGDondel_9595ondelObjectsEmptyGDSulingObjectsEmptyGDkerissObjectsEmptyGDhonaiObjectsEmptyGDkecapiObjectsEmptyGDminangObjectsEmptyGDangklungObjectsEmptyGDwayangObjectsEmptyGDtextondelObjectsEmptyGDtextangklungObjectsEmptyGDtextkecapiObjectsEmptyGDtextwayangObjectsEmptyGDtextminangObjectsEmptyGDtexthonaiObjectsEmptyGDtextkerissObjectsEmptyGDtextsulingObjects = Hashtable.newFrom({"ondel_ondel": [], "Suling": [], "keriss": [], "honai": [], "kecapi": [], "minang": [], "angklung": [], "wayang": [], "textondel": [], "textangklung": [], "textkecapi": [], "textwayang": [], "textminang": [], "texthonai": [], "textkeriss": [], "textsuling": []});
+<<<<<<< HEAD
 gdjs.Level_321Code.asyncCallback11439460 = function (runtimeScene, asyncObjectsList) {
+=======
+gdjs.Level_321Code.asyncCallback11659924 = function (runtimeScene, asyncObjectsList) {
+>>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Level_321Code.localVariables);
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Level 1", false);
 }gdjs.Level_321Code.localVariables.length = 0;
@@ -1421,7 +1433,11 @@ gdjs.Level_321Code.eventsList9 = function(runtimeScene) {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.Level_321Code.localVariables);
+<<<<<<< HEAD
 runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.1), (runtimeScene) => (gdjs.Level_321Code.asyncCallback11439460(runtimeScene, asyncObjectsList)));
+=======
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.1), (runtimeScene) => (gdjs.Level_321Code.asyncCallback11659924(runtimeScene, asyncObjectsList)));
+>>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 }
 }
 
@@ -1438,7 +1454,11 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.getSceneInstancesCount((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level_321Code.mapOfEmptyGDondel_9595ondelObjectsEmptyGDSulingObjectsEmptyGDkerissObjectsEmptyGDhonaiObjectsEmptyGDkecapiObjectsEmptyGDminangObjectsEmptyGDangklungObjectsEmptyGDwayangObjectsEmptyGDtextondelObjectsEmptyGDtextangklungObjectsEmptyGDtextkecapiObjectsEmptyGDtextwayangObjectsEmptyGDtextminangObjectsEmptyGDtexthonaiObjectsEmptyGDtextkerissObjectsEmptyGDtextsulingObjects) == 0;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
+<<<<<<< HEAD
 {isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11437988);
+=======
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11658452);
+>>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 }
 }
 if (isConditionTrue_0) {

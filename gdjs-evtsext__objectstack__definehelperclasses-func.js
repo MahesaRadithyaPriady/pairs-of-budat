@@ -8,7 +8,11 @@ if (typeof gdjs.evtsExt__ObjectStack__DefineHelperClasses !== "undefined") {
 gdjs.evtsExt__ObjectStack__DefineHelperClasses = {};
 
 
+<<<<<<< HEAD
 gdjs.evtsExt__ObjectStack__DefineHelperClasses.userFunc0x8eac08 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+=======
+gdjs.evtsExt__ObjectStack__DefineHelperClasses.userFunc0xab7a58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+>>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 "use strict";
 if (gdjs._objectStackExtension) {
     return;
@@ -185,7 +189,11 @@ gdjs.evtsExt__ObjectStack__DefineHelperClasses.eventsList0 = function(runtimeSce
 {
 
 
+<<<<<<< HEAD
 gdjs.evtsExt__ObjectStack__DefineHelperClasses.userFunc0x8eac08(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+=======
+gdjs.evtsExt__ObjectStack__DefineHelperClasses.userFunc0xab7a58(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+>>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 
 }
 
