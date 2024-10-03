@@ -529,11 +529,7 @@ for (var i = 0, k = 0, l = gdjs.evtsExt__PanelSpriteButton__PanelSpriteButton.Pa
 gdjs.evtsExt__PanelSpriteButton__PanelSpriteButton.PanelSpriteButton.prototype.doStepPostEventsContext.GDObjectObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-<<<<<<< HEAD
-{isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11128140);
-=======
 {isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11329828);
->>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 }
 }
 if (isConditionTrue_0) {
@@ -601,11 +597,7 @@ for (var i = 0, k = 0, l = gdjs.evtsExt__PanelSpriteButton__PanelSpriteButton.Pa
 gdjs.evtsExt__PanelSpriteButton__PanelSpriteButton.PanelSpriteButton.prototype.doStepPostEventsContext.GDObjectObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-<<<<<<< HEAD
-{isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11131724);
-=======
 {isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11333412);
->>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 }
 }
 if (isConditionTrue_0) {
@@ -653,11 +645,7 @@ for (var i = 0, k = 0, l = gdjs.evtsExt__PanelSpriteButton__PanelSpriteButton.Pa
 gdjs.evtsExt__PanelSpriteButton__PanelSpriteButton.PanelSpriteButton.prototype.doStepPostEventsContext.GDObjectObjects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-<<<<<<< HEAD
-{isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11133020);
-=======
 {isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11334708);
->>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 }
 }
 if (isConditionTrue_0) {
@@ -699,11 +687,7 @@ for (var i = 0, k = 0, l = gdjs.evtsExt__PanelSpriteButton__PanelSpriteButton.Pa
 gdjs.evtsExt__PanelSpriteButton__PanelSpriteButton.PanelSpriteButton.prototype.doStepPostEventsContext.GDObjectObjects1.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-<<<<<<< HEAD
-{isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11134484);
-=======
 {isConditionTrue_0 = eventsFunctionContext.getOnceTriggers().triggerOnce(11336172);
->>>>>>> 6ae19cc (Update Menambahkan Dialogue)
 }
 }
 if (isConditionTrue_0) {

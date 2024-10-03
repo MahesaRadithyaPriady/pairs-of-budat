@@ -10,11 +10,7 @@ gdjs.evtsExt__ObjectStack__ContainsAt.GDObjectObjects1= [];
 gdjs.evtsExt__ObjectStack__ContainsAt.GDElementObjects1= [];
 
 
-<<<<<<< HEAD
-gdjs.evtsExt__ObjectStack__ContainsAt.userFunc0xb41d20 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
-=======
-gdjs.evtsExt__ObjectStack__ContainsAt.userFunc0x9e0ee8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
->>>>>>> 6ae19cc (Update Menambahkan Dialogue)
+gdjs.evtsExt__ObjectStack__ContainsAt.userFunc0xa54788 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const stackBehaviorName = eventsFunctionContext.getBehaviorName("Behavior");
 /** @type {Hashtable<gdjs.RuntimeObject[]>} */
@@ -44,11 +40,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ContainsAt.GDObjectObjects1);
-<<<<<<< HEAD
-gdjs.evtsExt__ObjectStack__ContainsAt.userFunc0xb41d20(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
-=======
-gdjs.evtsExt__ObjectStack__ContainsAt.userFunc0x9e0ee8(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
->>>>>>> 6ae19cc (Update Menambahkan Dialogue)
+gdjs.evtsExt__ObjectStack__ContainsAt.userFunc0xa54788(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
